@@ -1,0 +1,26 @@
+{
+  "name": "laic-js",
+  "version": "0.0.1",
+  "description": "Small and non abtrusive library to manipulate, date, time and timezone",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laic",
+    "moment",
+    "date",
+    "time",
+    "timezona",
+    "numbers",
+    "hours",
+    "minutes",
+    "seconds",
+    "months",
+    "weeks",
+    "yeras",
+    "decades"
+  ],
+  "author": "Gabriel Gripp <grippado@gmail.com>",
+  "license": "MIT"
+}

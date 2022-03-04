@@ -22,5 +22,10 @@
     "decades"
   ],
   "author": "Gabriel Gripp <grippado@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
 }
